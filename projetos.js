@@ -3,16 +3,16 @@ const PROJECTS = [
     "name": "ORBIT",
     "category": {
       "id": "finance",
-      "pt": "Gestão executiva",
-      "en": "Executive management"
+      "pt": "Gestão de planejamento",
+      "en": "Planning management"
     },
     "description": {
-      "pt": "Controle orçamentário e inteligência executiva.",
-      "en": "Budget control and executive intelligence."
+      "pt": "Controle de planejamento e inteligência executiva.",
+      "en": "Planning control and executive intelligence."
     },
     "detail": {
-      "pt": "Análise de receitas, custos, resultados e projeções para apoiar decisões gerenciais.",
-      "en": "Analysis of revenue, costs, results and forecasts to support management decisions."
+      "pt": "Análise de planejamento, marcos, cronogramas e projeções para apoiar decisões gerenciais.",
+      "en": "Analysis of planning, milestones, schedules, and projections to support management decisions."
     },
     "image": "imagens/orbit.png",
     "demo": "projetos/orbit.html",
@@ -21,17 +21,17 @@ const PROJECTS = [
   {
     "name": "NEXUS",
     "category": {
-      "id": "planning",
-      "pt": "Planejamento",
-      "en": "Planning"
+      "id": "project",
+      "pt": "Gestão de projetos",
+      "en": "Project management"
     },
     "description": {
       "pt": "Planejamento e controle de projetos.",
       "en": "Project planning and control."
     },
     "detail": {
-      "pt": "Visualização de cronogramas, progresso e desvios de planejamento.",
-      "en": "Visualization of schedules, progress and planning deviations."
+      "pt": "Visualização de cronogramas, suprimentos, engenharia e desvios de planejamento.",
+      "en": "Visualization of schedules, supplies, engineering, and planning deviations."
     },
     "image": "imagens/nexus.png",
     "demo": "projetos/nexus.html",
