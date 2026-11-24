@@ -33,31 +33,31 @@ const PROJECTS = [
       "pt": "Visualização de cronogramas, progresso e desvios de planejamento.",
       "en": "Visualization of schedules, progress and planning deviations."
     },
-    "image": "",
-    "demo": "",
+    "image": "imagens/nexus.png",
+    "demo": "projetos/nexus.html",
     "post": ""
   },
   {
-    "name": "Engenharia 3D",
+    "name": "Executive",
     "category": {
       "id": "engineering",
-      "pt": "Engenharia digital",
-      "en": "Digital engineering"
+      "pt": "Gestão orçamentária",
+      "en": "Budget Management"
     },
     "description": {
-      "pt": "Visualização tridimensional interativa.",
-      "en": "Interactive 3D visualization."
+      "pt": "Controle de custos e receita de forma interativa.",
+      "en": "Interactive cost and revenue control."
     },
     "detail": {
-      "pt": "Representação visual de informações de execução de projetos.",
-      "en": "Visual representation of project execution information."
+      "pt": "Representação visual de informações de orçamentos de projetos.",
+      "en": "Visual representation of project budget information."
     },
-    "image": "",
-    "demo": "",
+    "image": "imagens/executive.png",
+    "demo": "projetos/executive.html",
     "post": ""
   },
   {
-    "name": "Estratégia 2027",
+    "name": "Estratégia",
     "category": {
       "id": "strategy",
       "pt": "Gestão estratégica",
@@ -71,8 +71,8 @@ const PROJECTS = [
       "pt": "Comparação de desempenho entre períodos e metas futuras.",
       "en": "Comparison of performance across periods and future targets."
     },
-    "image": "",
-    "demo": "",
+    "image": "imagens/axioma.png",
+    "demo": "projetos/axioma.html",
     "post": ""
   }
 ];
