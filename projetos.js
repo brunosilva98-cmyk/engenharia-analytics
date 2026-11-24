@@ -14,8 +14,8 @@ const PROJECTS = [
       "pt": "Análise de receitas, custos, resultados e projeções para apoiar decisões gerenciais.",
       "en": "Analysis of revenue, costs, results and forecasts to support management decisions."
     },
-    "image": "",
-    "demo": "",
+    "image": "imagens/orbit.png",
+    "demo": "projetos/orbit.html",
     "post": ""
   },
   {
