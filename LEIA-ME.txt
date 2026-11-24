@@ -1,0 +1,3 @@
+PORTFÓLIO V3.0
+Envie index.html, projetos.js e .nojekyll à raiz do repositório público. Settings > Pages > Deploy from a branch > main > / (root).
+Para adicionar projetos, envie HTML em projetos/, PDF em relatorios/ e capas em imagens/. Edite projetos.js: image, demo, report, post. Para novo projeto, copie um objeto completo dentro da lista PROJECTS, separando objetos por vírgula. Use caminhos relativos e textos pt/en. Publique apenas arquivos autorizados e sem dados confidenciais.
